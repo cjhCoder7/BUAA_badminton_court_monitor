@@ -87,6 +87,11 @@ class VenueCheckerApp:
         self.venue_frame.pack(pady=20)
 
     def update_venue_info(self, site_list):
+        # 弹出警告窗口
+        messagebox.showwarning(
+            "Update Notification", "The venue list has been updated!"
+        )
+
         self.venue_text.config(
             state=tk.NORMAL, font=("Helvetica", 12, "bold"), bg="#c2e9fb", fg="white"
         )  # 允许编辑
