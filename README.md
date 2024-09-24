@@ -1,7 +1,9 @@
-## BUAA_badminton_court_monitor
+## BUAA_badminton_court_monitor 💕🥰💕
 
 View it in [简体中文](简体中文.md)
 
+>🫣🧐
+>
 >**Disclaimer:** —— Reference Repository
 >https://github.com/NanmiCoder/MediaCrawler <br>
 >
@@ -12,17 +14,17 @@ View it in [简体中文](简体中文.md)
 >Click here for a more detailed disclaimer. [Click to view](#disclaimer) —— Reference Repository
 https://github.com/NanmiCoder/MediaCrawler
 
-### Description
+### Description 😚
 
 The primary function of this project is to monitor the available and bookable badminton courts at Beihang University's main badminton hall and display the specific information on the interface. The libraries used in this project include `playwright` (for web scraping automation) and `tkinter` (for interface display).
 
-The interface is shown as follows:
+The interface is shown as follows: 😚
 
 ![](image/login.png)
 
 ![](image/venue_text.png)
 
-### Setup and Usage
+### Setup and Usage🥳
 #### Environment Setup
 This project uses the `python` programming language, and it's recommended to ensure that the `python` version is > 3.8. Then run the command:
 
@@ -46,7 +48,7 @@ python main.py
 
 You will then need to enter your Beihang University unified authentication account and password on the login screen. After that, you'll enter the main interface. If the system detects any changes in the availability of bookable courts, the output will be refreshed.
 
-### Disclaimer
+### Disclaimer 🫢🤫🫢
 <div id="disclaimer">
 
 #### 1. Purpose and Nature of the Project
